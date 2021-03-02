@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agente-telegram-ebq9",
+  "private_key_id": "d42819d9d79a5b89043e69787036a7f5bde53480",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4L75ZZA3GguGf\ndrMcIsK7g1yLxgtEHMZEzMHlmc9eLHZfs5ch0jxYh1+JU0uXK6u+EgBSbK6nvRE2\n8G/FlVk3MK/K+6yL0P9nVzImbzm1uoz52ZvYW9AqNyxC7IMIyd17wSECpA0xX4kv\nAzqPlZTmFxn9fIAF8MQYZDarU8dYy4ymmRtIlj1hjbp5vScCvqYm8+PZouuQj1bw\nYkq8RiwD9PC1mFAKZ28D0YH+kv0RzOLqysLm4k/p+E/OkfGqguQNv8kXcg7x+Lyz\nnPr4+zvqLhxXcQ5VSQtYrV2LTZY+g5vLbol27tx540NoxRt8eiQhj0GjG1rzaMcC\ncOrAqPLfAgMBAAECggEAGffhRoksyAg791es+RKNkhJ7QdmyTPAhpCGaVNzSt9xc\n9DFF5abWi0TK23m69p1ZoXq4QObB2TR28OAFYj4kTfu3TU8ejLfyyocosvKLmGus\n5K0ho+eN+eW9f9IIx3xulbwtA0pN8eAeX1p9LzFPxQEM0Qh0pGHFxAqdCprNSF9t\nCVKpZOI+07UzS0urRpjyTYlZt/3c3DaT0Hj5C+P1qWHoJLmNjHCJ1jxOFOVtsO/s\nNiBU7RXsX8/4KXEhYN2A1IuWecETkqbQFKkTao6evBTQ16AqK3YtUB4EvNK/BMDY\nHQKCKMEKxylhFLZcc3JvWnJ+Rj0bugCsa3i2E0fQgQKBgQDsbIRPzewzuNZVDeP1\nSWU5qN5wrH4Go6NfLXb6WrTVAtupseKOfnHgd/rXL4Z0PuDnDdChKNvqgtgiZ07Y\nGGLbYTd1Yg4X9RPEFCqPG2dJRB66z1bQOmFepOJE3WpQBu0JGoqTNqjPgTAAhAqR\nFljmxxl++PFW+7d5u8DFj3at5wKBgQDHb/MHjruqoUpf3c18k8Y5/93Wb6YzVI5u\nz6RYcn7me3VwgAF+4x5jI0YI+YHvROnYrPnTWfvwNyFJSqJUQF59pVFGe8ZzAXud\nNXf12YgqNOw5gzLLosOGZ61C70mRXmE+Tb4VaaHvfK98kvUFzhy6q08slzsHGF/H\nuyGVrWBESQKBgAX99hiDspHZBG2hbX6g/pTIh+K5LHSEnzZhU5uiwuSHLwQNAx3z\nbHVw9QWRKco2ccLJYdlDzNcTu+CbV684ZwECZMJv2sWWq4qTrER2QFbmCBVZ/exH\nHoKkkSuHpRMkKcvKRWrXvs2Li6jnr9DfjR9EOowySQOYW50VOhyHt01PAoGBAKpd\nAB6Rl8//LZhM0U68sRU0c5zNDQ1GCtGvwDTpwWtDRSPPxPdOLdQD+ryJ3qu0k4nK\n4THg6Sze+ykvfxE3V0A/avkpnHD7cEvvs8SoiP9869mJMGfxZtK2V7QY0iBCnhDp\nuhlyfaklOobQxkuqMLJoyh5OJVc/Q/pK6TqBuv05AoGAYZ7eByKLuFCfvESnTXAo\nFR8E6NY9WIEPC+oH+NqQL+dyk4ixCw19ZmFCIoTw0kViMH9HT22ziOETEBs2yogT\nibhnJiprZW7qP2C9E4aMD/pGc9lxXb5S/rWQX2t1xeXvs0UXb//+jPg1hmEQ+UDd\nEgWorLzXgbkPWZnmuJvXS1U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-telegram@agente-telegram-ebq9.iam.gserviceaccount.com",
+  "client_id": "109869887561591154771",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-telegram%40agente-telegram-ebq9.iam.gserviceaccount.com"
+}
